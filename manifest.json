@@ -2,7 +2,7 @@
   "name": "Google Meet Attendance Notifier",
   "version": "0.1.0",
   "manifest_version": 3,
-  "description": "Nofify of changes to Google Meet attendance from the waiting room",
+  "description": "Notifies of attendance changes in Google Meet waiting room",
   "homepage_url": "https://meet.google.com/",
   "icons": {
     "16": "icons/icon16.png",

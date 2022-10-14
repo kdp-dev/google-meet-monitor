@@ -16,7 +16,7 @@
 ## Features
 
 - Open a Google Meet waiting room in Chrome and get notified when someone joins/drops.
-- Works with multiple Google Meet meeting at the same time.
+- Works with multiple Google Meet meetings at the same time.
 - Automatically clicks "Keep waiting" when prompted to ensure you aren't kicked from the waiting room.
 
 Note that each Google Meet window must not be minimized for notifications to work properly.

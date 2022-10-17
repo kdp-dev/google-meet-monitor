@@ -1,9 +1,9 @@
 {
   "name": "Google Meet Monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
-  "description": "Get notifications of who's in a Google Meet meeting",
-  "homepage_url": "https://meet.google.com/",
+  "description": "Get notifications of who's in a Google Meet call",
+  "homepage_url": "https://kdp.dev/google-meet-monitor/",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",

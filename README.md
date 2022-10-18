@@ -32,10 +32,10 @@ Get it now from the Chrome Web Store: https://chrome.google.com/webstore/detail/
 
 Copyright (c) 2022 KDP Software Development. All Rights Reserved.
 
-## Connect with [KDP Software](https://kydronepilot.com)
+## Connect with [KDP Software](https://kdp.dev)
 
 <p align="center">
-  <a href="https://kydronepilot.com">kydronepilot.com</a>
+  <a href="https://kdp.dev">kdp.dev</a>
   | <a href="https://twitter.com/kdp_dev">Twitter</a>
   | <a href="https://www.linkedin.com/company/kdp-software/">LinkedIn</a>
   | <a href="https://www.youtube.com/channel/UCOKUOMU1cSvcgnyga8atl-g">YouTube</a>

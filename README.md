@@ -30,7 +30,7 @@ Get it now from the Chrome Web Store: https://chrome.google.com/webstore/detail/
 
 ## Copyright
 
-Copyright (c) 2022 KDP Software Development. All Rights Reserved.
+Copyright (c) 2023 KDP Software Development LLC. All Rights Reserved.
 
 ## Connect with [KDP Software](https://kdp.dev)
 
